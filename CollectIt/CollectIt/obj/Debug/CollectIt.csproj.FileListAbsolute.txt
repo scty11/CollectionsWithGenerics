@@ -1,0 +1,15 @@
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\bin\Debug\CollectIt.exe.config
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\bin\Debug\CollectIt.exe
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\bin\Debug\CollectIt.pdb
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\obj\Debug\CollectIt.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\obj\Debug\CollectIt.exe
+c:\users\scott\documents\visual studio 2013\Projects\CollectIt\CollectIt\obj\Debug\CollectIt.pdb
+C:\Users\scottyboi\Documents\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\bin\Debug\CollectIt.exe.config
+C:\Users\scottyboi\Documents\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\obj\Debug\CollectIt.exe
+C:\Users\scottyboi\Documents\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\obj\Debug\CollectIt.pdb
+C:\Users\scottyboi\Documents\jquery\code\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\bin\Debug\CollectIt.exe.config
+C:\Users\scottyboi\Documents\jquery\code\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\obj\Debug\CollectIt.exe
+C:\Users\scottyboi\Documents\jquery\code\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\obj\Debug\CollectIt.pdb
+C:\Users\scottyboi\Documents\jquery\code\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\bin\Debug\CollectIt.exe
+C:\Users\scottyboi\Documents\jquery\code\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\bin\Debug\CollectIt.pdb
+C:\Users\scottyboi\Documents\jquery\code\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\obj\Debug\CollectIt.csprojResolveAssemblyReference.cache
