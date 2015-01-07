@@ -13,3 +13,9 @@ C:\Users\scottyboi\Documents\jquery\code\csharp-generics\2-csharp-generics-m2-co
 C:\Users\scottyboi\Documents\jquery\code\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\bin\Debug\CollectIt.exe
 C:\Users\scottyboi\Documents\jquery\code\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\bin\Debug\CollectIt.pdb
 C:\Users\scottyboi\Documents\jquery\code\csharp-generics\2-csharp-generics-m2-collections-exercise-files\excercises\after\CollectIt\CollectIt\obj\Debug\CollectIt.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\GitHub\CollectionsWithGenerics\CollectIt\CollectIt\bin\Debug\CollectIt.exe.config
+C:\Users\scottyboi\Documents\GitHub\CollectionsWithGenerics\CollectIt\CollectIt\obj\Debug\CollectIt.exe
+C:\Users\scottyboi\Documents\GitHub\CollectionsWithGenerics\CollectIt\CollectIt\obj\Debug\CollectIt.pdb
+C:\Users\scottyboi\Documents\GitHub\CollectionsWithGenerics\CollectIt\CollectIt\bin\Debug\CollectIt.exe
+C:\Users\scottyboi\Documents\GitHub\CollectionsWithGenerics\CollectIt\CollectIt\bin\Debug\CollectIt.pdb
+C:\Users\scottyboi\Documents\GitHub\CollectionsWithGenerics\CollectIt\CollectIt\obj\Debug\CollectIt.csprojResolveAssemblyReference.cache
